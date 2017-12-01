@@ -8,7 +8,7 @@ layout: default
 
 <br>
 
-<p><img src="img/squrl.jpg" title="leaked picture of nerxit"></img></p>
+<p><img src="img/squrl.jpg" title="leaked picture of nerxit"></p>
 
 <p>web design is my passion</p>
 
@@ -16,4 +16,4 @@ layout: default
 
 <br><br><br><br><br>
 
-<p><img src="img/nerit.png"></img></p>
+<p><img src="img/nerit.png"></p>
