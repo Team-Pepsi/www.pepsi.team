@@ -10,4 +10,4 @@ layout: default
 
 
 
-<p><a href="nerxit.html"> nerit </a></p>
+<p><a href="/nerxit"> nerit </a></p>
