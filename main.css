@@ -1,0 +1,65 @@
+body {
+  background: linear-gradient(to right, red, white, blue);
+  overflow-x: hidden;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  transform: rotate(1deg);
+}
+
+.lul {
+  animation: spin 100s linear infinite;
+}
+
+.fug {
+  animation: crash 1s linear infinite;
+  filter: drop-shadow 4px;
+}
+
+footer {
+  display: inline-block;
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+}
+
+oman {
+  display: inline-block;
+  animation: oman 0.1s linear infinite;
+}
+
+@keyframes oman {
+  0%, 100% {}
+  50% {transform: translate(0, 0.2em);}
+}
+
+blocc {
+  display: inline-block;
+}
+
+lol {
+  display: inline-block;
+  transform-origin: 50% 50%;
+  animation: spin 400s linear infinite;
+}
+
+.benis {
+  transform-origin: 50% 50%;
+  animation: spin 4s linear infinite, wow 4s linear infinite;
+}
+
+.haha {
+  transform-origin: 50% 50%;
+  animation: spin 512s linear infinite;
+}
+
+@keyframes spin { 100% {transform: rotate(360deg);}}
+@keyframes crash { 100% {transform: rotate(360deg) rotateX(210deg); filter: blur(10px);}}
+@keyframes wow  { 50% {transform: scale(0.5) translate(0, 10em)} 100% {transform: scale(2);}}
