@@ -8,6 +8,6 @@ layout: default
 
 <br>
 
-<p><img src="img/qy_.png" title="beefman"></p>
+<p><img src="img/qy_.gif" title="beefman"></p>
 
 <p>yeah sure</p>
