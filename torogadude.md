@@ -8,6 +8,6 @@ layout: default
 
 <br>
 
-<p><img src="img/toroman.jpg" title="leaked picture of torogaman"></p>
+<p><img src="img/toroman.png" title="leaked picture of torogaman"></p>
 
 <p>dude what the HECK</p>
