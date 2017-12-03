@@ -8,6 +8,8 @@ layout: default
 
 <p>why not take a look around</p>
 
+<br><br>
+
 <p><a href="/pepsi_boy"> bepis man </a></p>
 
 <p><a href="/nerxit"> nerit </a></p>
@@ -18,5 +20,17 @@ layout: default
 
 <p><a href="/leafhacker"> bifhax0r </a></p>
 
-<p><a href="/nerxit"> vet train baggaje </a></p>
+<p><a href="/babbaj"> vet train baggaje </a></p>
+
+<p><a href="/brady"> breadman </a></p>
+
+<p><a href="/daporkchop_"> prok chap </a></p>
+
+<p><a href="/henry"> henreeee </a></p>
+
+<p><a href="/lecatzz"> les cats </a></p>
+
+<p><a href="/mcneo"> mc new </a></p>
+
+<p><a href="/qy_"> kew why </a></p>
 
