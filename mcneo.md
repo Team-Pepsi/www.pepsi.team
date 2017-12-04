@@ -8,6 +8,6 @@ layout: default
 
 <br>
 
-<p><img src="img/mcneo.png" title="beefman"></p>
+<p><img src="img/mcneo.png" title="french fries plz"></p>
 
-<p>&#128076;</p>
+<p>&#128076; F**k meeee</p>
