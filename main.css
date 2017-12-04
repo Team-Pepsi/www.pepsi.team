@@ -1,3 +1,14 @@
+
+
+.left {
+    float: left;
+    margin-left: 5px;
+}
+.right {
+    float: right;
+    margin-right: 5px;
+}
+
 body {
   background: linear-gradient(to right, red, white, blue);
   overflow-x: hidden;
