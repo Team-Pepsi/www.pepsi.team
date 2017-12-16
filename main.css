@@ -92,6 +92,10 @@ iframe {
 }
 
 .bannerFrame {
+    position: absolute;
     width: 336px !important;
     height: 566px !important;
+    z-index: 15;
+    left: 50%;
+    margin: 0px 0 0 -168px;
 }
