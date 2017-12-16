@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<h1 class="benis"><lol>T</lol>EA<lol>M P</lol>EPSI</h1>
+<h1 class="benis"><lol>T</lol><oman>EA<lol>M P</lol></oman><lol>EPS</lol><oman>I</oman></h1>
 
 <p>welcome to the official team bepis website, home to 2b2t veterans torogadude and also vetrain babbage</p>
 
