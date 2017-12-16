@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: norotate
 ---
 
 <h1 class="benis"><lol>PE</lol><oman>P<lol>SI</lol></oman><lol>PAC</lol><oman>K</oman></h1>
