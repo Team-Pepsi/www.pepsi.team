@@ -19,6 +19,11 @@ h1 {
   transform: rotate(1deg);
 }
 
+h2 {
+  text-align: center;
+  transform: rotate(1deg);
+}
+
 h3 {
   text-align: center;
   transform: rotate(1deg);
