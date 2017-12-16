@@ -12,3 +12,5 @@ it's very good and also nice
 
 download the launcher [here](/misc/pepsipackLauncher-0.0.1.jar)
 
+if you are a l33t h4x0r you should try using it with [pepsimod](https://github.com/Team-Pepsi/pepsimod/releases)
+

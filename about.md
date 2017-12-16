@@ -14,3 +14,5 @@ pepsi is good and also nice
 
 [github](https://github.com/Team-Pepsi)
 
+[pepsimod](https://github.com/Team-Pepsi/pepsimod)
+
