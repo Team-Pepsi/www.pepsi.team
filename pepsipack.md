@@ -4,19 +4,9 @@ layout: norotate
 
 <h1 class="benis"><lol>PE</lol><oman>P<lol>SI</lol></oman><lol>PAC</lol><oman>K</oman></h1>
 
+<br><br><br><br><br><br><br><br>
 
-
-
-
-
-
-
-
-
-
-
-
-the pepsipack is a modpack made for the team pepsi cubic chunks server, or team pepsi modded server.
+the pepsipack is a modpack made for the team pepsi cubic chunks server, aka team pepsi modded server.
 
 to join, simply run the launcher, launch the pepsipack, and go to the multiplayer tab! the server will be added automagically.
 
