@@ -84,3 +84,8 @@ iframe {
     width: 0px !important;
     height: 0px !important
 }
+
+.bannerFrame {
+    width: 336 !important;
+    height: 566 !important;
+}
