@@ -36,4 +36,4 @@ featuring cool pepsi flooring
 
 # cool server stats
 
-<iframe src="https://minecraft-statistic.net/en/userbars/html/server/banner_155045_000000_000000_5555ff_ff5555_121212_5555ff_5555ff_1_1_1.html" frameborder="0" scrolling="no" width="336" height="566"></iframe>
+<iframe class="bannerFrame" src="https://minecraft-statistic.net/en/userbars/html/server/banner_155045_000000_000000_5555ff_ff5555_121212_5555ff_5555ff_1_1_1.html" frameborder="0" scrolling="no" width="336" height="566"></iframe>
