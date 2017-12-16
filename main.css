@@ -16,6 +16,12 @@ body {
 
 h1 {
   text-align: center;
+  transform: rotate(1deg);
+}
+
+h3 {
+  text-align: center;
+  transform: rotate(1deg);
 }
 
 p {
@@ -86,6 +92,6 @@ iframe {
 }
 
 .bannerFrame {
-    width: 336 !important;
-    height: 566 !important;
+    width: 336px !important;
+    height: 566px !important;
 }
