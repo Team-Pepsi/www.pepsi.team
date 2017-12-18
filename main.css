@@ -86,11 +86,6 @@ lol {
 @keyframes crash { 100% {transform: rotate(360deg) rotateX(210deg); filter: blur(10px);}}
 @keyframes wow  { 50% {transform: scale(0.5) translate(0, 10em)} 100% {transform: scale(2);}}
 
-img {
-    width: 0px !important;
-    height: 0px !important
-}
-
 iframe {
     width: 0px !important;
     height: 0px !important
