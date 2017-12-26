@@ -18,7 +18,7 @@ i literally took the bedwars plugin i made for torogadude's server and put it on
 
 skyblock with no rules, i don't think anything else needs to be said
 
-### modded
+### the hallway
 
 anarchy with the cubic chunks mod and amazing terrain
 
@@ -26,7 +26,13 @@ additionally, i've constrained it on the Z axis so the world is 30,000,000 block
 
 ores generate equally frequently at all heights, and the end is at y=16,000 (instead of being a different dimension)
 
-requires the [pepsipack](http://www.pepsi.team/pepsipack) to join
+requires the [hallway modpack](http://www.pepsi.team/hallway) to join
+
+### modded
+
+not yet in existance
+
+hold tight :D
 
 ### hub
 

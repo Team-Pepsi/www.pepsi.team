@@ -2,19 +2,23 @@
 layout: norotate
 ---
 
-<h1 class="benis"><lol>PE</lol><oman>P<lol>SI</lol></oman><lol>PAC</lol><oman>K</oman></h1>
+<h1 class="benis"><oman>H<lol>AL<lol>L</lol></oman><lol>W</lol><oman>AY</oman></h1>
 
 <br><br><br><br><br><br><br><br>
 
-# you're probably looking for [the hallway](http://www.pepsi.team/hallway)!
+the hallway is a sub-server of the [team pepsi minecraft server](http://www.pepsi.team/server)
 
-the pepsipack is a modpack made for the [team pepsi minecraft server](http://www.pepsi.team/server)
-
-to join, simply run the launcher, launch the pepsipack, and go to the multiplayer tab! the server will be added automagically
+to join, simply run the launcher, launch the hallway modpack, and go to the multiplayer tab! the server will be added automagically
 
 # about
 
-currently doesn't exist
+the hallway is a vanilla minecraft server except for one thing: it's sideways
+
+unlike vanilla minecraft, which is limited in height and infinite* horizontally, it's infinite vertically and constrained on one horizontal axis
+
+ores spawn equally frequently at all heights
+
+the end is at y=16,000
 
 ## using the launcher
 
