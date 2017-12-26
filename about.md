@@ -10,7 +10,7 @@ we do pepsi things
 
 pepsi is good and also nice
 
-[pepsipack launcher and tutorial thing](/pepsipack)
+[official minecraft server](/server)
 
 [github](https://github.com/Team-Pepsi)
 
