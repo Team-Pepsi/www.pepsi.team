@@ -2,7 +2,7 @@
 layout: norotate
 ---
 
-<h1 class="benis"><oman>H<lol>AL<lol>L</lol></lol></oman><lol>W</lol><oman>AY</oman></h1>
+<h1 class="benis"><oman>H<lol>AL</lol><lol>L</lol></oman><lol>W</lol><oman>AY</oman></h1>
 
 <br><br><br><br><br><br><br><br>
 
