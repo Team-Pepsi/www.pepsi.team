@@ -16,3 +16,5 @@ pepsi is good and also nice
 
 [pepsimod](https://github.com/Team-Pepsi/pepsimod)
 
+[bepiscoin](/bepiscoin)
+
