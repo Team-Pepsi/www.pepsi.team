@@ -10,3 +10,6 @@ it's based on cryptonote and is really cool and stuff yeah
 
 [source code](https://github.com/Team-Pepsi/bepiscoin)
 
+[block explorer](http://explorer.pepsi.team)
+
+[official mining pool!](http://pool.pepsi.team)
