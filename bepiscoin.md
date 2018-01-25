@@ -6,9 +6,9 @@ layout: norotate
 
 bepiscoin is Team Pepsi's official cryptocurrency
 
-it's based on cryptonote and is really cool and stuff yeah
+it's based on litecoin and is really cool and stuff yeah
 
-[source code](https://github.com/Team-Pepsi/bepiscoin)
+[source code](https://github.com/bepiscoin/bepiscoin)
 
 [block explorer](http://explorer.pepsi.team)
 
