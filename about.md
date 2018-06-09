@@ -10,11 +10,11 @@ we do pepsi things
 
 pepsi is good and also nice
 
-[official minecraft server](/server)
-
 [github](https://github.com/Team-Pepsi)
 
 [pepsimod](https://github.com/Team-Pepsi/pepsimod)
 
-[bepiscoin](/bepiscoin)
+[modpack launcher](https://www.pepsi.team/misc/pepsipacklauncher-0.0.2.jar)
+
+[Discord](https://discord.gg/jVEPCTT)
 
