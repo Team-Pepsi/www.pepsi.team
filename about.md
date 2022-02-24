@@ -14,7 +14,7 @@ pepsi is good and also nice
 
 [pepsimod](https://github.com/Team-Pepsi/pepsimod)
 
-[modpack launcher](https://www.pepsi.team/misc/pepsipacklauncher-0.0.3.jar)
+[modpack launcher](https://www.pepsi.team/misc/pepsipacklauncher-0.0.4.jar)
 
 [discord](https://discord.gg/jVEPCTT)
 
